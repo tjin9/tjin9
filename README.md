@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Tasneem 👋
 
-<!--
-**tjin9/tjin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  ⟡ About Me
+I'm a Computer Science student at The Egyptian E-Learning University (EELU), specializing in Data Science & AI, with a background in Front-End Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Machine Learning, Data Analysis, and building intelligent applications that transform data into meaningful insights. 
+
+---
+
+###  ⟡ I'm Currently Working On
+
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Predictive Applications
+
+---
+
+
+### ⟡ Languages
+
+- Python
+- Java
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+### ⟡ Tools
+
+- Visual Studio Code
+- Jupyter Notebook
+- SQL Server
+- Microsoft Excel
+- Power BI
+- Git & GitHub
+- NetBeans IDE
+- Node.js
+
+---
+###   💁‍♀️ Connect with Me
+
+- Email:tasneemhossam33@gmail.com
+- Discord: tasjin
