@@ -91,6 +91,4 @@
 
 📫 Have feedback, ideas, or interested in collaborating? Reach me on Discord: **tasjin**
 
- *I'm not trying to be the best — I'm trying to be better than I was yesterday.*
-
 </div>
